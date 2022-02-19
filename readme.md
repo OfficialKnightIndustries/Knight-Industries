@@ -1,1 +1,1 @@
-put this here
+This is the central repository for Knight Industries.
